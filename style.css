@@ -1,0 +1,21 @@
+body {
+    background-color: #f5f5f5;
+}
+
+h1, h2, h3 {
+    color: #c47c3e; /* Café */
+}
+
+footer {
+    background-color: #333; /* Negro */
+}
+
+.btn-warning {
+    background-color: #ffc107; /* Amarillo */
+}
+
+section {
+    background-color: #ffeb3b; /* Amarillo claro */
+    padding: 20px;
+    border-radius: 8px;
+}
